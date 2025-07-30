@@ -56,13 +56,13 @@ The C program calls this Assembly function twice: once to encrypt, then to decry
 
 Console output shows the state before and after encryption/decryption.
 
-Possible Extensions
+# Possible Extensions
 Modify Assembly to accept buffer pointers and lengths from C for flexible data encryption.
 
 Implement dynamic keys input from the user.
 
 Extend to encrypt/decrypt files instead of static buffers.
 
-License
+# License
 This project is released under the MIT License.
 
