@@ -20,7 +20,7 @@ Build scripts or manual build instructions provided.
 # Prerequisites
 Microsoft Visual Studio with MASM (ML64) support.
 
-Windows OS.
+Windows (preferable to be 11, 10 goes out of support on October 2025).
 
 Basic knowledge of command-line compilation and linking.
 
