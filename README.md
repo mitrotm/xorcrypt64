@@ -24,17 +24,6 @@ Windows OS.
 
 Basic knowledge of command-line compilation and linking.
 
-# Build Instructions
-Assemble the Assembly source:
-
-
-ml64 /c xor_encrypt.asm
-Compile the C source:
-
-
-cl /c main.c
-link main.obj xor_encrypt.obj /subsystem:console
-
 # How It Works
 The Assembly function xor_encrypt_decrypt operates on a predefined buffer in its own data section, applying XOR encryption/decryption using a fixed key.
 
