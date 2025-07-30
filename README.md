@@ -1,5 +1,5 @@
 # Overview
-XORCrypt64 is a simple encryption/decryption tool implemented in x86_64 Windows Assembly and integrated with C. It demonstrates how low-level XOR cipher operations can be performed efficiently in Assembly while leveraging C for input/output handling. This project is ideal for learning about Assembly programming, function integration, and basic cryptographic operations.
+xorcrypt64 is a encryption/decryption tool implemented in x86_64 Windows Assembly and integrated with C. It demonstrates how low-level XOR cipher operations can be performed efficiently in Assembly while leveraging C for input/output handling. This project is ideal for learning about Assembly programming, function integration, and basic cryptographic operations.
 
 # Features
 XOR encrypts and decrypts a fixed buffer of data in Assembly.
